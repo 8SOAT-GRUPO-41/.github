@@ -18,4 +18,4 @@
 4. Repo API: [Tech Challenge Fase 3 API](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-api)
 
 ### Arquitetura
-[Architecture](architecture.png)
+![Architecture](architecture.png)
