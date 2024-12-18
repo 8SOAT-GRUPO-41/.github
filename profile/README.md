@@ -19,3 +19,6 @@
 
 ### Arquitetura
 ![Architecture](architecture.png)
+
+### Vídeo fase 3
+[Assista o vídeo](https://youtu.be/KqPtQx3bTxE)
