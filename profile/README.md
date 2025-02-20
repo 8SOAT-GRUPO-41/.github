@@ -16,6 +16,9 @@
 2. Repo Orders: [Tech Challenge Fase 4 Orders](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-4-orders)
 3. Repo Payments: [Tech Challenge Fase 4 Products](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-4-products)
 4. Repo Payments: [Tech Challenge Fase 4 Customers](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-4-customers)
+5. Repo DB: [Tech Challenge Fase 4 DB](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-db)
+6. Repo IAC: [Tech Challenge Fase 4 IAC](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-iac)
+7. Repo Lambda Authorizer: [Tech Challenge Fase 4 Lambda Authorizer](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-lambda)
 
 ### Arquitetura Fase 4
 ![Architecture Fase 4](architecture-fase-4.png)
