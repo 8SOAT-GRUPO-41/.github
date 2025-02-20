@@ -17,6 +17,9 @@
 3. Repo Payments: [Tech Challenge Fase 4 Products](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-4-products)
 4. Repo Payments: [Tech Challenge Fase 4 Customers](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-4-customers)
 
+### Arquitetura
+![Architecture Fase 4](architecture-fase-4.png)
+
 ## Fase 3
 ### Repositorios
 1. Repo DB: [Tech Challenge Fase 3 DB](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-db)
