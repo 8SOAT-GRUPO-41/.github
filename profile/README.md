@@ -17,7 +17,7 @@
 3. Repo Payments: [Tech Challenge Fase 4 Products](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-4-products)
 4. Repo Payments: [Tech Challenge Fase 4 Customers](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-4-customers)
 
-### Arquitetura
+### Arquitetura Fase 4
 ![Architecture Fase 4](architecture-fase-4.png)
 
 ## Fase 3
@@ -27,7 +27,7 @@
 3. Repo Lambda Authorizer: [Tech Challenge Fase 3 Lambda Authorizer](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-lambda)
 4. Repo API: [Tech Challenge Fase 3 API](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-api)
 
-### Arquitetura
+### Arquitetura Fase 3
 ![Architecture](architecture.png)
 
 ### Vídeo fase 3
