@@ -23,12 +23,10 @@
 ### Arquitetura Fase 4
 ![Architecture Fase 4](architecture-fase-4.png)
 
+### Vídeo fase 4
+[Assista o vídeo](https://youtu.be/Mgy5OzQbONw?si=FoaSGl6vh6n7-naq)
+
 ## Fase 3
-### Repositorios
-1. Repo DB: [Tech Challenge Fase 3 DB](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-db)
-2. Repo IAC: [Tech Challenge Fase 3 IAC](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-iac)
-3. Repo Lambda Authorizer: [Tech Challenge Fase 3 Lambda Authorizer](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-lambda)
-4. Repo API: [Tech Challenge Fase 3 API](https://github.com/8SOAT-GRUPO-41/tech-challenge-fase-3-api)
 
 ### Arquitetura Fase 3
 ![Architecture](architecture.png)
