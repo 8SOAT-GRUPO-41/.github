@@ -1,6 +1,6 @@
 # 8SOAT FIAP | Grupo 41
 
-# Hackathon
+# Hackathon - FIAP X
 ## Repositorios
 1. Repo Backend Core: [Hackathon Backend Core](https://github.com/8SOAT-GRUPO-41/hackathon-backend)
 2. Repo Frontend: [Hackathon Frontend](https://github.com/8SOAT-GRUPO-41/hackathon-frontend)
