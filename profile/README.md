@@ -1,14 +1,20 @@
-# 8SOAT FIAP Tech Challenge | Grupo 41
-<!--
+# 8SOAT FIAP | Grupo 41
 
-**Here are some ideas to get you started:**
+# Hackathon
+## Repositorios
+1. Repo Backend Core: [Hackathon Backend Core](https://github.com/8SOAT-GRUPO-41/hackathon-backend)
+2. Repo Frontend: [Hackathon Frontend](https://github.com/8SOAT-GRUPO-41/hackathon-frontend)
+3. Repo Notifications Lambda: [Hackathon Notifications Lambda](https://github.com/8SOAT-GRUPO-41/hackathon-notifications-lambda)
+4. Repo Video Processor: [Hackathon Video Processor](https://github.com/8SOAT-GRUPO-41/hackathon-video-processor)
+5. Repo IAC: [Hackathon IAC](https://github.com/8SOAT-GRUPO-41/hackathon-iac)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Arquitetura
+![Architecture Hackathon](architecture-hackathon.png)
+
+### Vídeo
+[Assista o vídeo]()
+
+# Tech Challenge
 
 ## Fase 4
 ## Repositorios
