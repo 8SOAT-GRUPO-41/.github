@@ -12,7 +12,7 @@
 ![Architecture Hackathon](architecture-hackathon.png)
 
 ### Vídeo
-[Assista o vídeo]()
+[Assista o vídeo](https://www.youtube.com/watch?v=Sm56zCXS4w8)
 
 # Tech Challenge
 
